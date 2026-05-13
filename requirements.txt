@@ -1,0 +1,2 @@
+# Saillent Shadow AI Detector
+# No external dependencies required — uses Python stdlib only
